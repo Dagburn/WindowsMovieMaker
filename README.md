@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Windows Movie Maker!
 
-You can use the [editor on GitHub](https://github.com/Tesbly/WindowsMovieMaker/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can now download the ORGINAL Version of windows movie maker!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wanna know how? simply click download!
 
 ### Markdown
 
